@@ -1,0 +1,12 @@
+# Default behavior
+public/* linguist-vendored
+*.htm linguist-vendored
+**/*.go linguist-detectable
+*.svg text
+
+*.png binary
+package-lock.json linguist-generated
+*.go linguist-detectable
+build/* linguist-vendored
+
+# eof baceb5c6
